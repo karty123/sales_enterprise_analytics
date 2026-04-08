@@ -1,0 +1,10 @@
+# Ignore raw data
+data/raw_csv/*.csv
+data/external_api/*.json
+
+# Ignore Python environments
+venv/
+__pycache__/
+
+# Ignore OS files
+.DS_Store
