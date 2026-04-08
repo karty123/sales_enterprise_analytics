@@ -8,3 +8,6 @@ __pycache__/
 
 # Ignore OS files
 .DS_Store
+
+# Security
+.env
