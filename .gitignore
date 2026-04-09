@@ -11,3 +11,5 @@ __pycache__/
 
 # Security
 .env
+
+"data/dashboard_export/*.csv" 

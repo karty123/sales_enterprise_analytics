@@ -1,0 +1,185 @@
+sales_year,category,product_name,total_revenue,revenue_rank
+2018,External Solid State Drives,AQ Neuer SSD,2511166.24,1
+2018,External Solid State Drives,AQ Digit SSD,2035427.88,2
+2018,Gaming Laptop,AQ Gamer 3,722566.69,1
+2018,Gaming Laptop,AQ Gamer 2,634646.14,2
+2018,Gaming Laptop,AQ Gamer 1,627233.38,3
+2018,Gaming Laptop,AQ Smash 1,496908.08,4
+2018,Graphic Card,AQ Mforce Gen Y,804733.48,1
+2018,Graphic Card,AQ Mforce Gen X,561292.76,2
+2018,Internal HDD,AQ Dracula HDD – 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache,506705.96,1
+2018,Internal HDD,AQ WereWolf NAS Internal Hard Drive HDD – 8.89 cm,275544.34,2
+2018,Keyboard,AQ Gamers,1677929.04,1
+2018,Keyboard,AQ Master wireless x1,1374457.06,2
+2018,Keyboard,AQ Master wired x1,952526.53,3
+2018,Keyboard,AQ Lite,809866.86,4
+2018,MotherBoard,AQ MB Crossx,41603.01,1
+2018,MotherBoard,AQ MB Elite,33437.47,2
+2018,MotherBoard,AQ MB Crossx 2,15526.56,3
+2018,Mouse,AQ Gamers Ms,1114184.46,1
+2018,Mouse,AQ Master wireless x1 Ms,1079261.88,2
+2018,Mouse,AQ Master wired x1 Ms,646340.01,3
+2018,Personal Laptop,AQ Digit,1182490.52,1
+2018,Personal Laptop,AQ Velocity,966095.04,2
+2018,Personal Laptop,AQ Aspiron,825477.02,3
+2018,Personal Laptop,AQ Elite,407805.81,4
+2018,Processors,AQ 5000 Series Ultron 8 5900X Desktop Processor,1360772.26,1
+2018,Processors,AQ 5000 Series Electron 8 5900X Desktop Processor,1240551.71,2
+2018,Processors,AQ 5000 Series Electron 9 5900X Desktop Processor,1082318.76,3
+2018,Wi fi extender,AQ Wi Power Dx1,4221928.09,1
+2018,Wi fi extender,AQ Wi Power Dx2,1478205.7,2
+2019,Batteries,AQ LION x3,27233.76,1
+2019,Batteries,AQ LION x2,20734.21,2
+2019,Batteries,AQ LION x1,19366.95,3
+2019,Batteries,AQ Mx NB,10323.32,4
+2019,External Solid State Drives,AQ Neuer SSD,6442957.02,1
+2019,External Solid State Drives,AQ Digit SSD,5280451.44,2
+2019,External Solid State Drives,AQ Clx1,3170062.13,3
+2019,External Solid State Drives,AQ Clx2,1115441.65,4
+2019,Gaming Laptop,AQ Gamer 3,2127350.09,1
+2019,Gaming Laptop,AQ Gamer 2,2034813.57,2
+2019,Gaming Laptop,AQ Gamer 1,2007882.31,3
+2019,Gaming Laptop,AQ Smash 1,1910466.85,4
+2019,Gaming Laptop,AQ Smash 2,187154.32,5
+2019,Graphic Card,AQ Mforce Gen Y,2458002.12,1
+2019,Graphic Card,AQ Mforce Gen X,1709337.17,2
+2019,Graphic Card,AQ Mforce Gen Z,1688140.95,3
+2019,Graphic Card,AQ GT 21,298953.47,4
+2019,Internal HDD,AQ Dracula HDD – 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache,1658191.46,1
+2019,Internal HDD,AQ WereWolf NAS Internal Hard Drive HDD – 8.89 cm,1217883.32,2
+2019,Internal HDD,AQ Zion Saga,265332.83,3
+2019,Keyboard,AQ Gamers,5245438.64,1
+2019,Keyboard,AQ Lite,4827265.39,2
+2019,Keyboard,AQ Master wireless x1,3946166.39,3
+2019,Keyboard,AQ Master wired x1,2868294.94,4
+2019,Keyboard,AQ Maxima,2371980.01,5
+2019,MotherBoard,AQ MB Crossx,238824.3,1
+2019,MotherBoard,AQ MB Crossx 2,236966.36,2
+2019,MotherBoard,AQ MB Elite,199683.44,3
+2019,Mouse,AQ Gamers Ms,3787465.05,1
+2019,Mouse,AQ Master wireless x1 Ms,3087257.8,2
+2019,Mouse,AQ Lite Ms,2776409.49,3
+2019,Mouse,AQ Master wired x1 Ms,1924260.73,4
+2019,Personal Desktop,AQ Home Allin1,298832.83,1
+2019,Personal Laptop,AQ Digit,4129738.46,1
+2019,Personal Laptop,AQ Elite,3677473.58,2
+2019,Personal Laptop,AQ Velocity,3347235.41,3
+2019,Personal Laptop,AQ Aspiron,2723674.81,4
+2019,Personal Laptop,AQ Gen X,1426390.85,5
+2019,Processors,AQ 5000 Series Ultron 8 5900X Desktop Processor,5176672.12,1
+2019,Processors,AQ 5000 Series Electron 8 5900X Desktop Processor,4765495.82,2
+2019,Processors,AQ 5000 Series Electron 9 5900X Desktop Processor,4416193.53,3
+2019,Processors,AQ Electron 5 3600 Desktop Processor,3668362.47,4
+2019,Processors,AQ Electron 4 3600 Desktop Processor,1125288.04,5
+2019,USB Flash Drives,AQ Pen Drive 2 IN 1,347816.24,1
+2019,USB Flash Drives,AQ Pen Drive DRC,264716.27,2
+2019,Wi fi extender,AQ Wi Power Dx1,10215626.75,1
+2019,Wi fi extender,AQ Wi Power Dx2,7404188.41,2
+2020,Batteries,AQ Mx NB,497609.4,1
+2020,Batteries,AQ LION x3,440403.35,2
+2020,Batteries,AQ LION x2,341008.19,3
+2020,Batteries,AQ LION x1,295081.07,4
+2020,External Solid State Drives,AQ Clx1,6984867.07,1
+2020,External Solid State Drives,AQ Neuer SSD,6739772.19,2
+2020,External Solid State Drives,AQ Digit SSD,5562126.9,3
+2020,External Solid State Drives,AQ Clx2,4868821.78,4
+2020,External Solid State Drives,AQ Clx3,1522507.84,5
+2020,Gaming Laptop,AQ Smash 1,6286238.09,1
+2020,Gaming Laptop,AQ Gamer 3,5987230.22,2
+2020,Gaming Laptop,AQ Gamer 2,5842328.39,3
+2020,Gaming Laptop,AQ Gamer 1,4462291.78,4
+2020,Gaming Laptop,AQ Smash 2,3951753.64,5
+2020,Graphic Card,AQ Mforce Gen Z,4474614.57,1
+2020,Graphic Card,AQ Mforce Gen Y,3487338.9,2
+2020,Graphic Card,AQ GT 21,1725674.54,3
+2020,Graphic Card,AQ Marquee P3,1621584.13,4
+2020,Graphic Card,AQ Mforce Gen X,1468892.55,5
+2020,Internal HDD,AQ Dracula HDD – 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache,2281611.09,1
+2020,Internal HDD,AQ WereWolf NAS Internal Hard Drive HDD – 8.89 cm,1969822.24,2
+2020,Internal HDD,AQ Zion Saga,1500675.9,3
+2020,Keyboard,AQ Lite,9193347.16,1
+2020,Keyboard,AQ Maxima,8636572.17,2
+2020,Keyboard,AQ Gamers,7574157.84,3
+2020,Keyboard,AQ Qwerty,7421436.86,4
+2020,Keyboard,AQ Trigger,7018101.61,5
+2020,MotherBoard,AQ MB Crossx 2,1033240.0,1
+2020,MotherBoard,AQ MB Lito,926340.09,2
+2020,MotherBoard,AQ MB Crossx,854759.04,3
+2020,MotherBoard,AQ MB Lito 2,776652.96,4
+2020,MotherBoard,AQ MB Elite,722296.25,5
+2020,Mouse,AQ Lite Ms,6501306.1,1
+2020,Mouse,AQ Trigger Ms,6301207.65,2
+2020,Mouse,AQ Gamers Ms,5540142.39,3
+2020,Mouse,AQ Qwerty Ms,5116790.26,4
+2020,Mouse,AQ Maxima Ms,4654415.42,5
+2020,Personal Desktop,AQ Home Allin1,1996044.86,1
+2020,Personal Desktop,AQ HOME Allin1 Gen 2,1181440.86,2
+2020,Personal Laptop,AQ Elite,8368419.13,1
+2020,Personal Laptop,AQ Gen X,7414162.99,2
+2020,Personal Laptop,AQ Digit,6805935.15,3
+2020,Personal Laptop,AQ Gen Y,6662765.98,4
+2020,Personal Laptop,AQ Velocity,5792569.42,5
+2020,Processors,AQ Electron 5 3600 Desktop Processor,9694514.74,1
+2020,Processors,AQ 5000 Series Ultron 8 5900X Desktop Processor,8676661.92,2
+2020,Processors,AQ 5000 Series Electron 8 5900X Desktop Processor,8312541.54,3
+2020,Processors,AQ 5000 Series Electron 9 5900X Desktop Processor,7558261.21,4
+2020,Processors,AQ Electron 4 3600 Desktop Processor,7512670.3,5
+2020,USB Flash Drives,AQ Pen Drive DRC,1517691.13,1
+2020,USB Flash Drives,AQ Pen Drive 2 IN 1,870966.27,2
+2020,Wi fi extender,AQ Wi Power Dx2,10261975.27,1
+2020,Wi fi extender,AQ Wi Power Dx1,8645138.86,2
+2020,Wi fi extender,AQ Wi Power Dx3,5785876.68,3
+2021,Batteries,AQ Mx NB,670059.62,1
+2021,Batteries,AQ LION x3,577479.3,2
+2021,Batteries,AQ LION x2,432130.1,3
+2021,Batteries,AQ LION x1,395722.82,4
+2021,External Solid State Drives,AQ Clx1,5338406.9,1
+2021,External Solid State Drives,AQ Clx2,5295212.51,2
+2021,External Solid State Drives,AQ Neuer SSD,4907939.43,3
+2021,External Solid State Drives,AQ Digit SSD,4029219.57,4
+2021,External Solid State Drives,AQ Clx3,2063455.3,5
+2021,Gaming Laptop,AQ Smash 1,6987441.13,1
+2021,Gaming Laptop,AQ Gamer 3,6654878.01,2
+2021,Gaming Laptop,AQ Gamer 2,6442335.8,3
+2021,Gaming Laptop,AQ Smash 2,5147047.27,4
+2021,Gaming Laptop,AQ Gamer 1,4460274.52,5
+2021,Graphic Card,AQ Mforce Gen Z,3600708.04,1
+2021,Graphic Card,AQ Mforce Gen Y,2839974.87,2
+2021,Graphic Card,AQ Marquee P3,2224638.57,3
+2021,Graphic Card,AQ GT 21,2027806.82,4
+2021,Graphic Card,AQ Marquee P4,770734.31,5
+2021,Internal HDD,AQ Dracula HDD – 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache,1836579.1,1
+2021,Internal HDD,AQ Zion Saga,1710095.24,2
+2021,Internal HDD,AQ WereWolf NAS Internal Hard Drive HDD – 8.89 cm,1563255.65,3
+2021,Keyboard,AQ Qwerty,10111402.67,1
+2021,Keyboard,AQ Trigger,9595361.82,2
+2021,Keyboard,AQ Maxima,8232021.52,3
+2021,Keyboard,AQ Lite,6949780.84,4
+2021,Keyboard,AQ Gamers,6099825.78,5
+2021,MotherBoard,AQ MB Lito,1326412.19,1
+2021,MotherBoard,AQ MB Crossx 2,1119771.02,2
+2021,MotherBoard,AQ MB Lito 2,1063673.67,3
+2021,MotherBoard,AQ MB Crossx,967576.55,4
+2021,MotherBoard,AQ MB Elite,752258.9,5
+2021,Mouse,AQ Trigger Ms,8312187.93,1
+2021,Mouse,AQ Qwerty Ms,7007660.41,2
+2021,Mouse,AQ Maxima Ms,6365437.63,3
+2021,Mouse,AQ Lite Ms,5385943.89,4
+2021,Mouse,AQ Gamers Ms,4419748.84,5
+2021,Personal Desktop,AQ Home Allin1,2386846.0,1
+2021,Personal Desktop,AQ HOME Allin1 Gen 2,1585752.92,2
+2021,Personal Laptop,AQ Gen Y,9149674.27,1
+2021,Personal Laptop,AQ Gen X,8195320.2,2
+2021,Personal Laptop,AQ Elite,7406378.68,3
+2021,Personal Laptop,AQ Digit,5894081.09,4
+2021,Personal Laptop,AQ GEN Z,5362043.14,5
+2021,Processors,AQ Electron 4 3600 Desktop Processor,8979725.45,1
+2021,Processors,AQ Electron 5 3600 Desktop Processor,7892342.81,2
+2021,Processors,AQ 5000 Series Ultron 8 5900X Desktop Processor,7649133.72,3
+2021,Processors,AQ 5000 Series Electron 8 5900X Desktop Processor,7181848.45,4
+2021,Processors,AQ Electron 3 3600 Desktop Processor,6538301.8,5
+2021,USB Flash Drives,AQ Pen Drive DRC,1781217.73,1
+2021,USB Flash Drives,AQ Pen Drive 2 IN 1,677988.22,2
+2021,Wi fi extender,AQ Wi Power Dx3,8093121.0,1
+2021,Wi fi extender,AQ Wi Power Dx2,6365830.42,2
+2021,Wi fi extender,AQ Wi Power Dx1,5364931.04,3

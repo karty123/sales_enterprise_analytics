@@ -1,0 +1,21 @@
+sales_year,platform,channel,revenue,pct_of_yearly_total
+2021,Brick & Mortar,Retailer,140297800.1,50.61
+2021,E-Commerce,Retailer,55512577.61,20.03
+2021,Brick & Mortar,Distributor,31999274.47,11.54
+2021,E-Commerce,Direct,24762467.27,8.93
+2021,Brick & Mortar,Direct,24634898.0,8.89
+2020,Brick & Mortar,Retailer,129314072.12,45.95
+2020,E-Commerce,Retailer,67905414.21,24.13
+2020,Brick & Mortar,Distributor,31277132.94,11.11
+2020,E-Commerce,Direct,29685766.18,10.55
+2020,Brick & Mortar,Direct,23233510.59,8.26
+2019,Brick & Mortar,Retailer,55837421.61,47.26
+2019,E-Commerce,Retailer,24145594.57,20.44
+2019,Brick & Mortar,Distributor,17191393.81,14.55
+2019,Brick & Mortar,Direct,10715510.44,9.07
+2019,E-Commerce,Direct,10257876.64,8.68
+2018,Brick & Mortar,Retailer,13601272.77,45.82
+2018,E-Commerce,Retailer,6113863.72,20.59
+2018,Brick & Mortar,Distributor,4892391.03,16.48
+2018,Brick & Mortar,Direct,2719952.1,9.16
+2018,E-Commerce,Direct,2359523.12,7.95
